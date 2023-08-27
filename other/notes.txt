@@ -2,3 +2,10 @@ https://www.curseforge.com/minecraft/mc-mods/emi
 
 https://www.curseforge.com/minecraft/mc-mods/natures-compass
 
+
+// modpacks
+
+DarkRPG - RPG Quest Magic & Origins Online Adventure
+All of Fabric 7 - AOF7
+Prominence II [FABRIC]
+Better MC [FABRIC] - BMC2
